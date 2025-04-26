@@ -1,5 +1,3 @@
-# Trillo
-
 ## Overview
 
 This project was meant to practice the HTML and CSS skills and features, allowing me to understand how to accomplish different animations and features that professional webpages have.

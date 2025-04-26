@@ -19,7 +19,7 @@ Some of the features include:
 
 ## Screenshots
 
-![Homepage](img/Screenshots/Homepage.png)
+![Homepage](img/Homepage.png)
 
 ## License
 

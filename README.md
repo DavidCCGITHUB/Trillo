@@ -1,7 +1,7 @@
 ## Overview
 
 This project was meant to practice the HTML and CSS skills and features, allowing me to understand how to accomplish different animations and features that professional webpages have.
-The project is a homepage example with different sections based on an hotel booking, built on SASS with no Javascript, meant only for aesthetics and visual effects only.
+The project is a homepage example with different sections based on an hotel booking, built on SASS with no Javascript, meant only for aesthetics and visual effects.
 
 **Live Demo:** [Trillo](https://davidccgithub.github.io/Trillo/)
 

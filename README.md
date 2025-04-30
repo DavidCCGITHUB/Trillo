@@ -23,6 +23,6 @@ Some of the features include:
 
 ![Homepage](img/Homepage.png)
 
-## License
+### Disclaimer
 
-For personal/educational use only.
+This project was made for educational purposes only.
